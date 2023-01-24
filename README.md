@@ -7,4 +7,4 @@
 [two-hrs-before-scheduled-meeting](two-hrs-before-scheduled-meeting.html)
 
 <br/>
-[STRUCTURE](structure.html)
+[structure](structure.html)
