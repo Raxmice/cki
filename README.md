@@ -2,6 +2,6 @@
 
 [on-scheduling-the-meeting](on-scheduling-the-meeting.html)
 <br/>
-[two-hrs-before-scheduled-meeting](two-hrs-before-scheduled-meeting.html)
+[on-scheduling-the-meeting-2](two-hrs-before-scheduled-meeting-2.html)
 <br/>
-[two-hrs-before-scheduled-meeting](two-hrs-before-scheduled-meeting-2.html)
+[two-hrs-before-scheduled-meeting](two-hrs-before-scheduled-meeting.html)
