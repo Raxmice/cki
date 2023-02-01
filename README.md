@@ -2,22 +2,22 @@
 
 [structure](structure.html)
 <br/>
-[structure](meeting-schedulted.html)
+[Meeting Schedulted](meeting-schedulted.html)
 <br/>
-[structure](on-prospect-conversion.html)
+[On Prospect Conversion](on-prospect-conversion.html)
 <br/>
-[structure](hrs-before-scheduled-meeting.html)
+[Hrs Before Scheduled Meeting](hrs-before-scheduled-meeting.html)
 <br/>
-[structure](on-scheduling-the-measurment-and-on-considering-the-same.html)
+[On Scheduling The Measurment And On Considering The Same](on-scheduling-the-measurment-and-on-considering-the-same.html)
 <br/>
-[structure](on-plan-and-view-upload.html)
+[On Plan And View Upload](on-plan-and-view-upload.html)
 <br/>
-[structure](on-quote-finalisation.html)
+[On Quote Finalisation](on-quote-finalisation.html)
 <br/>
-[structure](packeting.html)
+[Packeting](packeting.html)
 <br/>
-[structure](challan.html)
+[Challan](challan.html)
 <br/>
-[structure](relese-of-purchase-order.html)
+[Relese Of Purchase Order](relese-of-purchase-order.html)
 <br/>
-[structure](followup-overdue-of-any-lead-or-prospect.html)
+[Followup Overdue Of Any Lead Or Prospect](followup-overdue-of-any-lead-or-prospect.html)
